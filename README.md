@@ -1,1 +1,2 @@
-# tic_tac_toe_game
+# Tic_Tac_Toe_game
+This is a mini project on the famous game which all the people in the world have played in their small age, the game is TIC TAC TOE. In olden ages we play the game in paper or notebook, but in this digital period everything has come into our electronic devices. Have we ever wondered how the game is designed in our electronic device, so in this I will show how we can create the game by coding it using python.
